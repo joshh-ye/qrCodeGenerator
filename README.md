@@ -6,5 +6,5 @@ generates qrCode pdfs based on .xlsx file of volumn names
 pip install pandas
 pip install openpyxl
 pip install fpdf
-pip install qrcode[pil]
+pip install qrcode
 ```
